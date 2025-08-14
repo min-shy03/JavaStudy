@@ -2,8 +2,8 @@ package ch03.sec01;
 
 public class SignOperatorExample {
 	public static void main(String[] args) {
-		// 부호 증감 연산자
-		// - 연사자는 변수값의 부호를 변경할 때 사용된다. 
+		// 부호 연산자
+		// - 연산자는 변수값의 부호를 변경할 때 사용된다. 
 		// 이 때 정수 타입(byte, short, int)의 연산 결과는 int 값으로 반환된다.
 		
 		int x = -100;
